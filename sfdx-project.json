@@ -1,0 +1,24 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "AppCenterReferral_V7",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT",
+            "dependencies": [
+                {
+                    "package": "SOSAO"
+                    
+                }
+            ]
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "AppCenterReferral_V7": "0Ho0e000000GmasCAC",
+        "SOSAO": "04t5000000064c6AAA"
+    }
+}

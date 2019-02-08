@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Government</fullName>
+        <default>false</default>
+        <label>Government</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Non - Profit</fullName>
+        <default>false</default>
+        <label>Non - Profit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Private</fullName>
+        <default>false</default>
+        <label>Private</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Public</fullName>
+        <default>false</default>
+        <label>Public</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Div of Global multi-national (MNC)-China</fullName>
+        <default>false</default>
+        <label>Div of Global multi-national (MNC)-China</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Privately owned (POE)-China</fullName>
+        <default>false</default>
+        <label>Privately owned (POE)-China</label>
+    </standardValue>
+    <standardValue>
+        <fullName>State Owned Enterprises (SOE)-China</fullName>
+        <default>false</default>
+        <label>State Owned Enterprises (SOE)-China</label>
+    </standardValue>
+</StandardValueSet>

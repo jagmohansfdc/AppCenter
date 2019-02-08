@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>true</sorted>
+    <standardValue>
+        <fullName>Advertising Supplier</fullName>
+        <default>false</default>
+        <label>Advertising Supplier</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Analyst</fullName>
+        <default>false</default>
+        <label>Analyst</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Certified</fullName>
+        <default>false</default>
+        <label>Certified</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Competitor</fullName>
+        <default>false</default>
+        <label>Competitor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Content Supplier</fullName>
+        <default>false</default>
+        <label>Content Supplier</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Credit Card Vendor</fullName>
+        <default>false</default>
+        <label>Credit Card Vendor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Customer</fullName>
+        <default>false</default>
+        <label>Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Data Services Partner</fullName>
+        <default>false</default>
+        <label>Data Services Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Deferred</fullName>
+        <default>false</default>
+        <label>Deferred</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Developer</fullName>
+        <default>false</default>
+        <label>Developer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Former Customer</fullName>
+        <default>false</default>
+        <label>Former Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Former GTM Customer</fullName>
+        <default>false</default>
+        <label>Former GTM Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Former Indirect Customer</fullName>
+        <default>false</default>
+        <label>Former Indirect Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Former Partner</fullName>
+        <default>false</default>
+        <label>Former Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gold</fullName>
+        <default>false</default>
+        <label>Gold</label>
+    </standardValue>
+    <standardValue>
+        <fullName>GTM Customer</fullName>
+        <default>false</default>
+        <label>GTM Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Indirect Customer</fullName>
+        <default>false</default>
+        <label>Indirect Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Integrator</fullName>
+        <default>false</default>
+        <label>Integrator</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Investor</fullName>
+        <default>false</default>
+        <label>Investor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>ISV</fullName>
+        <default>false</default>
+        <label>ISV</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Member</fullName>
+        <default>false</default>
+        <label>Member</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Open Booking Supplier</fullName>
+        <default>false</default>
+        <label>Open Booking Supplier</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Out of Business</fullName>
+        <default>false</default>
+        <label>Out of Business</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner</fullName>
+        <default>false</default>
+        <label>Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pending Termination</fullName>
+        <default>false</default>
+        <label>Pending Termination</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Platinum</fullName>
+        <default>false</default>
+        <label>Platinum</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Press</fullName>
+        <default>false</default>
+        <label>Press</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Prospect</fullName>
+        <default>false</default>
+        <label>Prospect</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Qualified</fullName>
+        <default>false</default>
+        <label>Qualified</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Reseller</fullName>
+        <default>false</default>
+        <label>Reseller</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Suspect</fullName>
+        <default>false</default>
+        <label>Suspect</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Test</fullName>
+        <default>false</default>
+        <label>Test</label>
+    </standardValue>
+    <standardValue>
+        <fullName>TMC Platform Partner</fullName>
+        <default>false</default>
+        <label>TMC Platform Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>TripLink</fullName>
+        <default>false</default>
+        <label>TripLink</label>
+    </standardValue>
+    <standardValue>
+        <fullName>WebPlatform</fullName>
+        <default>false</default>
+        <label>WebPlatform</label>
+    </standardValue>
+</StandardValueSet>

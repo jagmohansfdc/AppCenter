@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <enableReports>false</enableReports>
+    <enableSearch>true</enableSearch>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <externalSharingModel>ReadWrite</externalSharingModel>
+    <fields>
+        <fullName>Partner_Category__c</fullName>
+        <externalId>false</externalId>
+        <label>Partner Category</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Air &amp; Hotel</fullName>
+                    <default>false</default>
+                    <label>Air &amp; Hotel</label>
+                </value>
+                <value>
+                    <fullName>Cars &amp; Trains</fullName>
+                    <default>false</default>
+                    <label>Cars &amp; Trains</label>
+                </value>
+                <value>
+                    <fullName>Compliance &amp; Risk</fullName>
+                    <default>false</default>
+                    <label>Compliance &amp; Risk</label>
+                </value>
+                <value>
+                    <fullName>Finance &amp; HR</fullName>
+                    <default>false</default>
+                    <label>Finance &amp; HR</label>
+                </value>
+                <value>
+                    <fullName>Life Sciences</fullName>
+                    <default>false</default>
+                    <label>Life Sciences</label>
+                </value>
+                <value>
+                    <fullName>IT Solutions</fullName>
+                    <default>false</default>
+                    <label>IT Solutions</label>
+                </value>
+                <value>
+                    <fullName>Other Expenses</fullName>
+                    <default>false</default>
+                    <label>Other Expenses</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Partner_Email__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Enter partner&apos;s emails with (;) separated</inlineHelpText>
+        <label>Partner Email</label>
+        <length>32768</length>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <label>Partner Configuration</label>
+    <listViews>
+        <fullName>All</fullName>
+        <columns>NAME</columns>
+        <columns>Partner_Category__c</columns>
+        <columns>Partner_Email__c</columns>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+        <language>en_US</language>
+    </listViews>
+    <listViews>
+        <fullName>All1</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <label>Partner Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Partners Configuration</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
+</CustomObject>

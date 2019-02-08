@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Hot</fullName>
+        <default>false</default>
+        <label>Hot</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Warm</fullName>
+        <default>false</default>
+        <label>Warm</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cold</fullName>
+        <default>false</default>
+        <label>Cold</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Extended</fullName>
+        <default>false</default>
+        <label>Extended</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Existing Customer</fullName>
+        <default>false</default>
+        <label>Existing Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Future</fullName>
+        <default>false</default>
+        <label>Future</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Inactive</fullName>
+        <default>false</default>
+        <label>Inactive</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Qualified Out</fullName>
+        <default>false</default>
+        <label>Qualified Out</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Working</fullName>
+        <default>false</default>
+        <label>Sales Working</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Single User</fullName>
+        <default>false</default>
+        <label>Single User</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sub Target</fullName>
+        <default>false</default>
+        <label>Sub Target</label>
+    </standardValue>
+    <standardValue>
+        <fullName>User Target</fullName>
+        <default>false</default>
+        <label>User Target</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cancelled - Unsubscribe</fullName>
+        <default>false</default>
+        <label>Cancelled - Unsubscribe</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cancelled - Upgrade</fullName>
+        <default>false</default>
+        <label>Cancelled - Upgrade</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cancelled - Free Account</fullName>
+        <default>false</default>
+        <label>Cancelled - Free Account</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cancelled - Payment Failure</fullName>
+        <default>false</default>
+        <label>Cancelled - Payment Failure</label>
+    </standardValue>
+    <standardValue>
+        <fullName>A List</fullName>
+        <default>false</default>
+        <label>A List</label>
+    </standardValue>
+    <standardValue>
+        <fullName>B List</fullName>
+        <default>false</default>
+        <label>B List</label>
+    </standardValue>
+    <standardValue>
+        <fullName>C List</fullName>
+        <default>false</default>
+        <label>C List</label>
+    </standardValue>
+</StandardValueSet>
